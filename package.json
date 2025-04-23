@@ -1,0 +1,22 @@
+{
+    "name": "student-faculty-monitoring-system",
+    "version": "1.0.0",
+    "private": true,
+    "dependencies": {
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "react-router-dom": "^6.23.0",
+        "react-scripts": "5.0.1"
+    },
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test",
+        "eject": "react-scripts eject"
+    },
+    "devDependencies": {
+        "autoprefixer": "^10.4.21",
+        "postcss": "^8.5.3",
+        "tailwindcss": "^4.1.4"
+    }
+}
